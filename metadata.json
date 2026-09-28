@@ -1,0 +1,6 @@
+{
+  "name": "AuthShield - Firebase Authentication & Protected Dashboard",
+  "description": "Secure Firebase user management with registration, login, email verification, password reset, and protected dashboard routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
